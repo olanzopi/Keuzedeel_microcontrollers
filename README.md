@@ -1,4 +1,4 @@
-#Guitar Hero copy for Arduino UNO
+# Guitar Hero copy for Arduino UNO
 
 This is a small arduino uno project which consist a small game. containing 4 rows where notes are falling and a line the player can move on the rows for an extra point bonus. 
 
